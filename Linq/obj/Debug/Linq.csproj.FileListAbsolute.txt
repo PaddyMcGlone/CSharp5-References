@@ -1,0 +1,6 @@
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\bin\Debug\Linq.exe.config
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\bin\Debug\Linq.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\bin\Debug\Linq.pdb
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\obj\Debug\Linq.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Linq\obj\Debug\Linq.pdb

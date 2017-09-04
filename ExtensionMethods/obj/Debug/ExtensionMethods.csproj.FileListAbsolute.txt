@@ -1,0 +1,6 @@
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

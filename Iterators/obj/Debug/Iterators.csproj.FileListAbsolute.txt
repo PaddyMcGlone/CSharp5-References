@@ -1,0 +1,6 @@
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\bin\Debug\Iterators.exe.config
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\bin\Debug\Iterators.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\bin\Debug\Iterators.pdb
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\obj\Debug\Iterators.csprojResolveAssemblyReference.cache
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\obj\Debug\Iterators.exe
+c:\users\paddy\documents\visual studio 2017\Projects\CSharp5PocketReference\Iterators\obj\Debug\Iterators.pdb

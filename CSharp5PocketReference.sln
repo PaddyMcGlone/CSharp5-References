@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{3CDA9FA8-B90C-489D-BDA1-688B97F35623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators", "Iterators\Iterators.csproj", "{E438A1E4-ACBC-4B2D-964C-B8861A989394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{11F0150B-E92F-4FF5-BEFE-A7F5FCC15948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDA9FA8-B90C-489D-BDA1-688B97F35623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDA9FA8-B90C-489D-BDA1-688B97F35623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDA9FA8-B90C-489D-BDA1-688B97F35623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDA9FA8-B90C-489D-BDA1-688B97F35623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E438A1E4-ACBC-4B2D-964C-B8861A989394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E438A1E4-ACBC-4B2D-964C-B8861A989394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E438A1E4-ACBC-4B2D-964C-B8861A989394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E438A1E4-ACBC-4B2D-964C-B8861A989394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F0150B-E92F-4FF5-BEFE-A7F5FCC15948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F0150B-E92F-4FF5-BEFE-A7F5FCC15948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F0150B-E92F-4FF5-BEFE-A7F5FCC15948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F0150B-E92F-4FF5-BEFE-A7F5FCC15948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
